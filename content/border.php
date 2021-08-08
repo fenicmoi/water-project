@@ -1,4 +1,5 @@
 
+<?php include "../header.php";?>
   <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
@@ -326,3 +327,4 @@
 
   </main><!-- End #main -->
 
+<?php include "../footer.php";?>
